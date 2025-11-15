@@ -7,7 +7,7 @@ It includes an owner system, autoplay, filters, queue control, and a fully featu
 
 Note: This project is for educational purposes only. Selfbots violate Discord Terms of Service. Use at your own risk.
 
-# THIS IS NO PREFIX VERSION ALL OWNERS CAN USE THIS NO REFIX SYSTEM
+# THIS IS NO PREFIX VERSION ALL OWNERS CAN USE THIS NO PREFIX SYSTEM
 ---
 
 ## Features
