@@ -1,6 +1,6 @@
 
 
-# Pushp Dev Raj — Music Selfbot
+# LORD X STAR  — Music Selfbot
 
 This is an advanced Discord music selfbot built using discord.js-selfbot-v13 and Rainlink (Lavalink v4).
 It includes an owner system, autoplay, filters, queue control, and a fully featured music playback system.
@@ -144,7 +144,7 @@ Avoid running this on your main account.
 
 ## Credits
 
-Developed by Pushp Dev Raj.
+Developed By Star:
 CREDITS NHI DIA TOH TUMHARI MAA CHUD JAYEGI
 
 
